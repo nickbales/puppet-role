@@ -1,0 +1,15 @@
+{
+  "name": "nbales-role",
+  "version": "0.1.0",
+  "author": "nbales",
+  "summary": "Role",
+  "license": "Apache-2.0",
+  "source": "git@github.com:nickbales/puppet-role.git",
+  "project_page": "https://github.com/nickbales/puppet-role",
+  "issues_url": "https://github.com/nickbales/puppet-role",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
